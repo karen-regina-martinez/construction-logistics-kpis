@@ -1,0 +1,104 @@
+"machine_id","type","warehouse","age_years","status","days_under_repair"
+"MCH-001","Air compressor","Warehouse 1",5,"Under repair",61
+"MCH-002","Scaffolding","Warehouse 1",5,"Available",NA
+"MCH-003","Floor grinder","Warehouse 1",0,"Available",NA
+"MCH-004","Rotary hammer","Warehouse 2",3,"Under repair",11
+"MCH-005","Scaffolding","Warehouse 1",2,"Available",NA
+"MCH-006","Floor grinder","Warehouse 1",2,"Available",NA
+"MCH-007","Scaffolding","Warehouse 1",4,"Available",NA
+"MCH-008","Power generator","Warehouse 1",5,"Available",NA
+"MCH-009","Rotary hammer","Warehouse 2",10,"Available",NA
+"MCH-010","Air compressor","Warehouse 1",2,"Available",NA
+"MCH-011","Floor grinder","Warehouse 1",9,"Available",NA
+"MCH-012","Air compressor","Warehouse 1",5,"Available",NA
+"MCH-013","Rotary hammer","Warehouse 1",10,"Available",NA
+"MCH-014","Power generator","Warehouse 1",6,"Available",NA
+"MCH-015","Floor grinder","Warehouse 1",2,"Available",NA
+"MCH-016","Rotary hammer","Warehouse 1",3,"Under repair",12
+"MCH-017","Scaffolding","Warehouse 2",1,"Available",NA
+"MCH-018","Floor grinder","Warehouse 1",1,"Under repair",15
+"MCH-019","Rotary hammer","Warehouse 1",3,"Available",NA
+"MCH-020","Floor grinder","Warehouse 1",2,"Available",NA
+"MCH-021","Rotary hammer","Warehouse 2",5,"Available",NA
+"MCH-022","Rotary hammer","Warehouse 1",5,"Available",NA
+"MCH-023","Rotary hammer","Warehouse 1",0,"Available",NA
+"MCH-024","Floor grinder","Warehouse 1",4,"Available",NA
+"MCH-025","Scaffolding","Warehouse 1",5,"Available",NA
+"MCH-026","Floor grinder","Warehouse 1",3,"Available",NA
+"MCH-027","Scaffolding","Warehouse 1",5,"Available",NA
+"MCH-028","Floor grinder","Warehouse 1",1,"Available",NA
+"MCH-029","Floor grinder","Warehouse 1",1,"Available",NA
+"MCH-030","Air compressor","Warehouse 1",1,"Available",NA
+"MCH-031","Concrete mixer","Warehouse 1",8,"Available",NA
+"MCH-032","Floor grinder","Warehouse 2",7,"Available",NA
+"MCH-033","Scarifier","Warehouse 1",0,"Available",NA
+"MCH-034","Floor grinder","Warehouse 1",10,"Under repair",8
+"MCH-035","Air compressor","Warehouse 1",6,"Under repair",30
+"MCH-036","Scaffolding","Warehouse 1",9,"Available",NA
+"MCH-037","Rotary hammer","Warehouse 1",8,"Under repair",15
+"MCH-038","Scaffolding","Warehouse 2",9,"Available",NA
+"MCH-039","Scarifier","Warehouse 1",6,"Available",NA
+"MCH-040","Scaffolding","Warehouse 1",8,"Under repair",3
+"MCH-041","Rotary hammer","Warehouse 1",6,"Available",NA
+"MCH-042","Power generator","Warehouse 2",7,"Available",NA
+"MCH-043","Scaffolding","Warehouse 1",9,"Available",NA
+"MCH-044","Scaffolding","Warehouse 1",9,"Under repair",27
+"MCH-045","Floor grinder","Warehouse 1",7,"Available",NA
+"MCH-046","Floor grinder","Warehouse 2",9,"Under repair",2
+"MCH-047","Concrete mixer","Warehouse 1",7,"Under repair",11
+"MCH-048","Rotary hammer","Warehouse 1",7,"Available",NA
+"MCH-049","Scaffolding","Warehouse 1",0,"Available",NA
+"MCH-050","Rotary hammer","Warehouse 2",3,"Available",NA
+"MCH-051","Concrete mixer","Warehouse 1",4,"Available",NA
+"MCH-052","Air compressor","Warehouse 2",9,"Available",NA
+"MCH-053","Concrete mixer","Warehouse 2",10,"Under repair",16
+"MCH-054","Power generator","Warehouse 1",4,"Available",NA
+"MCH-055","Scaffolding","Warehouse 2",0,"Available",NA
+"MCH-056","Scarifier","Warehouse 2",1,"Available",NA
+"MCH-057","Scarifier","Warehouse 1",5,"Available",NA
+"MCH-058","Floor grinder","Warehouse 1",5,"Available",NA
+"MCH-059","Concrete mixer","Warehouse 1",2,"Available",NA
+"MCH-060","Rotary hammer","Warehouse 2",4,"Available",NA
+"MCH-061","Rotary hammer","Warehouse 1",2,"Available",NA
+"MCH-062","Power generator","Warehouse 1",1,"Under repair",26
+"MCH-063","Scaffolding","Warehouse 1",9,"Available",NA
+"MCH-064","Scaffolding","Warehouse 1",6,"Available",NA
+"MCH-065","Rotary hammer","Warehouse 1",0,"Available",NA
+"MCH-066","Floor grinder","Warehouse 1",8,"Under repair",9
+"MCH-067","Air compressor","Warehouse 1",9,"Under repair",5
+"MCH-068","Scaffolding","Warehouse 2",3,"Available",NA
+"MCH-069","Scaffolding","Warehouse 2",2,"Available",NA
+"MCH-070","Air compressor","Warehouse 1",6,"Available",NA
+"MCH-071","Power generator","Warehouse 2",4,"Available",NA
+"MCH-072","Rotary hammer","Warehouse 1",6,"Available",NA
+"MCH-073","Scarifier","Warehouse 1",8,"Available",NA
+"MCH-074","Power generator","Warehouse 2",4,"Available",NA
+"MCH-075","Floor grinder","Warehouse 2",5,"Available",NA
+"MCH-076","Air compressor","Warehouse 2",1,"Available",NA
+"MCH-077","Scarifier","Warehouse 1",10,"Available",NA
+"MCH-078","Scaffolding","Warehouse 1",2,"Available",NA
+"MCH-079","Rotary hammer","Warehouse 1",7,"Available",NA
+"MCH-080","Power generator","Warehouse 2",3,"Available",NA
+"MCH-081","Floor grinder","Warehouse 1",8,"Available",NA
+"MCH-082","Concrete mixer","Warehouse 1",2,"Available",NA
+"MCH-083","Scarifier","Warehouse 1",6,"Under repair",6
+"MCH-084","Concrete mixer","Warehouse 2",7,"Under repair",12
+"MCH-085","Floor grinder","Warehouse 1",8,"Under repair",51
+"MCH-086","Concrete mixer","Warehouse 1",1,"Available",NA
+"MCH-087","Air compressor","Warehouse 1",1,"Available",NA
+"MCH-088","Concrete mixer","Warehouse 1",4,"Available",NA
+"MCH-089","Rotary hammer","Warehouse 1",5,"Available",NA
+"MCH-090","Rotary hammer","Warehouse 1",5,"Under repair",46
+"MCH-091","Concrete mixer","Warehouse 2",2,"Available",NA
+"MCH-092","Scarifier","Warehouse 1",4,"Available",NA
+"MCH-093","Scarifier","Warehouse 1",7,"Under repair",4
+"MCH-094","Rotary hammer","Warehouse 1",3,"Available",NA
+"MCH-095","Rotary hammer","Warehouse 1",9,"Under repair",22
+"MCH-096","Rotary hammer","Warehouse 1",9,"Available",NA
+"MCH-097","Scarifier","Warehouse 1",3,"Available",NA
+"MCH-098","Rotary hammer","Warehouse 2",2,"Available",NA
+"MCH-099","Air compressor","Warehouse 1",7,"Available",NA
+"MCH-100","Rotary hammer","Warehouse 1",3,"Available",NA
+"MCH-101","Floor grinder","Warehouse 2",9,"Under repair",19
+"MCH-102","Power generator","Warehouse 1",8,"Available",NA
+"MCH-103","Scaffolding","Warehouse 2",0,"Available",NA
